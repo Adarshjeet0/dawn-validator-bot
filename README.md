@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dawn Validator Bot
 Automation farming Script for Dawn Validator using proxies. This bot support multi accounts.
 ## Tools and components required
@@ -65,3 +66,6 @@ python3 main.py
 - Run this bot, and it will update your referrer code to my invite code if you don't have one.
 - This bot have delay every 500 seconds. 
 - You can just run this bot at your own risk, I'm not responsible for any loss or damage caused by this bot. This bot is for educational purposes only.
+=======
+# dawn-validator-bot
+>>>>>>> 562375a67665cc0a34bfb52b658f85c8c453865f

@@ -326,7 +326,7 @@ async def main():
     
     while True:
         # mode = input(f"{Colors.WARNING}Choice (1/2): {Colors.RESET}")
-        mode = '2'
+        mode = "
         if mode in ['1', '2']:
             break
         print(f"{Colors.ERROR}Invalid choice. Enter 1 or 2.{Colors.RESET}")
